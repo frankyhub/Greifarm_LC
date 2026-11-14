@@ -29,7 +29,7 @@ Diese Anleitung beschreibt den Aufbau eines Greifarms aus 3mm Sperrholz mit eine
 
 ## APP Greifarm-Steuerung (MIT App Inventor)
 
-<img src="pic/Greifarm-APP.png" width="500"> 
+<img src="pic/Greifarm-APP.png" width="300"> 
 <br> <br>
 
 ## Stückliste:
