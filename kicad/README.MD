@@ -1,4 +1,4 @@
-<img src="/pic/19greifarm.png" width="500"> 
+<img src="PIC/Robo-Arm.png" width="500"> 
 
 <br> <br>
 
