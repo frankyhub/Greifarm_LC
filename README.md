@@ -93,7 +93,7 @@ Das benötigen wir für den Greifarm:
 
 ## Greifer Montage
 
-<img src="pic/Greifarm23.png" width="800"> 
+<img src="pic/Greifarm23.png" width="600"> 
 <br> <br>
 
 
