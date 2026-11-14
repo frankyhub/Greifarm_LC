@@ -16,7 +16,7 @@
 # Greifarm_LC Montage Anleitung
 
 
-<img src="pic/Greifarm20.png" width="500"> 
+<img src="pic/Greifarm20.png" width="800"> 
 <br> <br>
 
 
@@ -93,7 +93,7 @@ Das benötigen wir für den Greifarm:
 
 ## Greifer Montage
 
-<img src="pic/Greifarm23.png" width="500"> 
+<img src="pic/Greifarm23.png" width="800"> 
 <br> <br>
 
 
