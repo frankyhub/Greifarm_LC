@@ -202,11 +202,13 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifa
 + Servo Kippen = 10*
 + Servo Heben = 11*
 
+### NANO-Shield
 
 ![Bild](pic/19greifarm.png)
+<br> <br>
 
 ![Bild](pic/17greifarm.png)
-
+<br> <br>
 ---
 
 ## Montage im Potigehäuse
