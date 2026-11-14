@@ -190,7 +190,7 @@ void loop()
 
 ## Verdrahten
 
-Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/KiCad_KHF/tree/main/300%20NANO_Greifarm_LC)
+Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifarm_LC/tree/main/kicad)
 
 + Poti Drehen = A1;    
 + Poti Kippen = A2; 
