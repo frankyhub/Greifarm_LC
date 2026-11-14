@@ -1,5 +1,5 @@
 ## APP Inventor Blöcke
 
 
-<img src="Greifarm.png" width="500"> 
+<img src="Greifarm.png" width="1000"> 
 <br> <br>
