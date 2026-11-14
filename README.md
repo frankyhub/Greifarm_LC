@@ -96,7 +96,6 @@ Das benötigen wir für den Greifarm:
 <img src="pic/Greifarm23.png" width="500"> 
 <br> <br>
 
-![Bild](pic/10greifarm.png)
 
 ![Bild](pic/11greifarm.png)
 
