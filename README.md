@@ -2,7 +2,7 @@
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/Greifarm_LC/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Greifarm_LC/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Greifarm_LC/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/Greifarm_LC/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Greifarm_LC/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Greifarm_LC/wiki/Warum-zittert-ein-Servo%3F)||
 |--|--|--|--|
 | | | | |
 <a href="https://github.com/frankyhub/Greifarm_LC/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Greifarm_LC)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Greifarm_LC)|<a href="https://github.com/frankyhub/Greifarm_LC/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Greifarm_LC)|<a href="https://github.com/frankyhub/Greifarm_LC/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Greifarm_LC)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2134-blue)|
