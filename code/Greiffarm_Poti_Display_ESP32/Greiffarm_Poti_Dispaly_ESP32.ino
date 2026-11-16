@@ -13,6 +13,8 @@ Einstellungen:
 https://dl.espressif.com/dl/package_esp32_index.json
 http://dan.drown.org/stm32duino/package_STM32duino_index.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json 
+
+Servo Infos: https://bluegrays.com/de/blog/servo-zittert-arduino-loesung
  **************************************************************************************************/
 
 #include <Arduino.h>
