@@ -209,9 +209,11 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifa
 + Servo Drehteller = 9*
 + Servo Kippen = 10*
 + Servo Heben = 11*
+<br> <br>
 
-## 🔌 NANO-Shield
-
+# 🔌 
+## NANO-Shield
+<br>
 ![Bild](pic/19greifarm.png)
 <br> <br>
 
