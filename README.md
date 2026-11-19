@@ -211,10 +211,11 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifa
 + Servo Heben = 11*
 <br> <br>
 
-# 🔌 
-## NANO-Shield
+## 🔌 NANO-Shield
 <br>
+
 ![Bild](pic/19greifarm.png)
+
 <br> <br>
 
 ![Bild](pic/17greifarm.png)
