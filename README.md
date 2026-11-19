@@ -19,6 +19,8 @@
 <br> <br>
 
 
+</div> 
+
 ## 🚀Story:
 
 Diese Anleitung beschreibt den Aufbau eines Greifarms aus 3mm Sperrholz mit einem Arduino NANO. Die Gelenke der Greifarme werden mit Servo-Motore angetrieben, die Ansteuerung erfolgt über einen Arduino NANO und vier Potis. Für die Greifzange empfiehlt sich die 3D-Druck Variante. Optional ist eine Ansteuerung über eine APP und die Drehwinkelanzeige mit einen OLED-Display möglich.
