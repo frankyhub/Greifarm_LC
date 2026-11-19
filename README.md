@@ -227,7 +227,7 @@ Montiere die Bauteile in das Lasercutter-Gehäuse
 
 ---
 
-🎯 Fertig!
+🏁 Fertig!
 
 ---
 
