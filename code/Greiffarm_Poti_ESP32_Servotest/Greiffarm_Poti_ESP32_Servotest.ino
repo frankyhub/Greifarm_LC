@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 int delayTime =150;
 
-// erstelle vier Servo-Objekte
+// erstelle fünf Servo-Objekte
 RoboServo servo1;
 RoboServo servo2;
 RoboServo servo3;
