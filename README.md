@@ -218,6 +218,8 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifa
 
 <br> <br>
 
+👓
+
 ![Bild](pic/17greifarm.png)
 <br> <br>
 ---
