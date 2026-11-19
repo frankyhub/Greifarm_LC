@@ -44,11 +44,11 @@ int potPin5 = 39;
 
 int ADC_Max = 4096;     // Dies ist der Standard-ADC-Maximalwert auf dem ESP32 (12-Bit-ADC-Breite);
                         
-int val1=0;//Lese Daten des Potentiometers 1
-int val2=0;//Lese Daten des Potentiometers 2
-int val3=0;//Lese Daten des Potentiometers 3
-int val4=0;//Lese Daten des Potentiometers 4
-int val5=0;//Lese Daten des Potentiometers 5
+int val1=0;// Daten des Potentiometers 1
+int val2=0;// Daten des Potentiometers 2
+int val3=0;// Daten des Potentiometers 3
+int val4=0;// Daten des Potentiometers 4
+int val5=0;// Daten des Potentiometers 5
 
                         
 void setup() {
