@@ -127,7 +127,7 @@ und lade dann das Programm in den Microcontroller
 
 ---
 
-## :hacker: Greifarm Programm
+## Greifarm Programm
 
 
 
