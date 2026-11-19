@@ -30,7 +30,7 @@ Servo-Infos:  [:grey_question:WiKi](https://github.com/frankyhub/Greifarm_LC/wik
 ---
 
 
-#🎛️## APP Greifarm-Steuerung (MIT App Inventor)
+# 🎛️ ## APP Greifarm-Steuerung (MIT App Inventor)
 
 <img src="pic/Greifarm-APP.png" width="300"> 
 <br> <br>
