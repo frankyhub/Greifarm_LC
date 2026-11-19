@@ -30,12 +30,12 @@ Servo-Infos:  [:grey_question:WiKi](https://github.com/frankyhub/Greifarm_LC/wik
 ---
 
 
-# 🎛️ ## APP Greifarm-Steuerung (MIT App Inventor)
+## 🎛️ APP Greifarm-Steuerung (MIT App Inventor)
 
 <img src="pic/Greifarm-APP.png" width="300"> 
 <br> <br>
 
-## 📋Stückliste:
+## 📋 Stückliste:
 
 Das benötigen wir für den Greifarm:
 
@@ -66,7 +66,7 @@ Das benötigen wir für den Greifarm:
 
 ---
 
-#🔧## Greifarm Montage - Gesamtansicht
+## 🔧 Greifarm Montage - Gesamtansicht
 
 ![Bild](pic/01greifarm.png)
 
@@ -196,7 +196,7 @@ void loop()
 
 ---
 
-#🔧## Verdrahten
+## 🔧 Verdrahten
 
 Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifarm_LC/tree/main/kicad)
 
@@ -210,7 +210,7 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifa
 + Servo Kippen = 10*
 + Servo Heben = 11*
 
-#🔌##  NANO-Shield
+## 🔌 NANO-Shield
 
 ![Bild](pic/19greifarm.png)
 <br> <br>
@@ -227,7 +227,7 @@ Montiere die Bauteile in das Lasercutter-Gehäuse
 
 ---
 
-#🏁## Fertig!
+## 🏁 Fertig!
 
 ---
 
