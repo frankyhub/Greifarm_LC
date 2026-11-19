@@ -196,7 +196,7 @@ void loop()
 
 ---
 
-## Verdrahten
+## 🔧 Verdrahten
 
 Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifarm_LC/tree/main/kicad)
 
@@ -210,7 +210,7 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifa
 + Servo Kippen = 10*
 + Servo Heben = 11*
 
-### NANO-Shield
+### 🔌 NANO-Shield
 
 ![Bild](pic/19greifarm.png)
 <br> <br>
@@ -219,7 +219,7 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/Greifa
 <br> <br>
 ---
 
-## Montage im Potigehäuse
+## 🔧 Montage im Potigehäuse
 
 Montiere die Bauteile in das Lasercutter-Gehäuse
 
@@ -227,7 +227,7 @@ Montiere die Bauteile in das Lasercutter-Gehäuse
 
 ---
 
-Fertig!
+🎯 Fertig!
 
 ---
 
